@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/inclusion/__init__.py
+src/inclusion/acquire.py
+src/inclusion/config.py
+src/inclusion/wdi.py
+src/inclusion.egg-info/PKG-INFO
+src/inclusion.egg-info/SOURCES.txt
+src/inclusion.egg-info/dependency_links.txt
+src/inclusion.egg-info/top_level.txt
+src/inclusion/api/__init__.py
+src/inclusion/api/app.py
+src/inclusion/api/schemas.py
+tests/test_acquire.py
+tests/test_wdi.py
